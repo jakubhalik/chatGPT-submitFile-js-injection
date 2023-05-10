@@ -1,7 +1,5 @@
 # chatGPT Submit File js injection to put in console
 # prompt:
-<br />
-
 Generate a Js script that creates a button with the text ‘Submit File’ and inserts it into the DOM before an element with the class 
 ‘.flex.flex-col.w-full.py-2.flex-grow.md\:py-3.md\:pl-4’. The button should have a green background color, white text color, 5px padding, no border, 5px border radius and 5px margin. 
 The script should also create a progress element and insert it into the DOM before the same element. The progress element should have a width of 99%, height of 5px and a grey background color. 
