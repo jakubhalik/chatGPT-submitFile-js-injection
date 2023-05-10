@@ -1,5 +1,4 @@
 # chatGPT Submit File js injection to put in console
-<br />
 # prompt:
 <br />
 
