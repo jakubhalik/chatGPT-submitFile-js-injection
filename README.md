@@ -26,6 +26,7 @@ chatgptReady = false;
         chatgptReady = !document.querySelector(
           ".text-2xl ＞ span:not(.invisible)"
 Once all chunks have been submitted, the progress bar should turn blue.
+<br />
 ```javascript
 const button = document.createElement('button');
 button.textContent = 'Submit File';
