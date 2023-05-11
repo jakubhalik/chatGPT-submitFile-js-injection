@@ -27,7 +27,7 @@ targetElement.parentNode.insertBefore(progressElement, targetElement);
 button.addEventListener('click', async () => {
   const fileInput = document.createElement('input');
   fileInput.type = 'file';
-  fileInput.accept = '.txt, .js, .py, .html, .css, .json, .csv';
+  fileInput.accept = '.txt, .js, .ts, .jsx, .tsx, .vue, .py, .html, .css, .json, .csv';
 
   fileInput.addEventListener('change', async (event) => {
     const file = event.target.files[0];
